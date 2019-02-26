@@ -1,4 +1,4 @@
-require 'date'
+
 
 # A RecipeCard is the join between a user instance and a recipe instance. This
 # is a has-many-through relationship.
